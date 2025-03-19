@@ -1,0 +1,14 @@
+{
+  "name": "playwrighttraining",
+  "version": "1.0.0",
+  "description": "A comprehensive Playwright automation framework showcasing E2E, API, and database testing scenarios. This repository demonstrates best practices for writing reliable tests, and handling various testing challenges.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.10"
+  }
+}
