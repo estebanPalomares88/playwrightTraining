@@ -1,5 +1,4 @@
 import {test, expect} from '@playwright/test';
-import { log } from 'console';
 
 test.describe('Authentication test', () => {
     test('Fail Bearer Authentication', async ({ request }) => {
